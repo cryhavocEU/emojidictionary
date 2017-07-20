@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>Emoji Dictionary.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>601A7AED1F20EFBF00A802A1</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>601A7B011F20EFBF00A802A1</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>601A7B0C1F20EFC000A802A1</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
